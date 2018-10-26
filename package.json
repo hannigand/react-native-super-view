@@ -1,0 +1,12 @@
+{
+  "name": "react-native-super-view",
+  "version": "1.0.0",
+  "description": "A React Native View component to fix all of the hacks that have to be done on the default View",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "^16.6.0",
+    "react-native": "^0.57.4"
+  }
+}
